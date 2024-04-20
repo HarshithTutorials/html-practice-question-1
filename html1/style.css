@@ -1,0 +1,27 @@
+.page{
+    background-image:url("https://img.freepik.com/free-photo/cozy-cup-cinnamon-tea-with-cinnamon-sticks-powder-beside-it_157027-4362.jpg?t=st=1713630758~exp=1713634358~hmac=9162c1070aeb5029513ce749e5bbfd4d2372845331264482cde85e050870ae3d&w=826");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+.main-heading{
+    color: white;
+    text-align: center;
+    font-family: roboto;
+    font-style: bold;
+    text-decoration: underline;
+}
+.matter-tea{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding: 15px;
+}
+.matter-tq{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding: 15px;
+}
